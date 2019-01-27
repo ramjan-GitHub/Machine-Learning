@@ -1,8 +1,5 @@
-Learning is an art, Lets learn Machine Learning.
+**Project No. 01. Titanic Survival Exploration with Decision Trees**
 --------------------------------------------------------------------------------
-
-**Project No.01 Titanic Survival Exploration with Decision Trees**
-
 
 **Fllow the steps.......**
 
@@ -27,3 +24,7 @@ Using by importing train_test_split class from sklearn.model_selection
 
 
 **Step 5. Find accuracy**
+
+Note:- To know in details open notebook (.ipynb) file in Anaconda.
+
+**Thank you**
