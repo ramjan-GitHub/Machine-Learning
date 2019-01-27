@@ -13,6 +13,7 @@ We'll start by loading the dataset and displaying some of its rows.
 **Step 2. Preprocessing the data**
 
 Now, let's do some data preprocessing. First, we'll one-hot encode the features.
+
 Using code: "features = pd.get_dummies(features_raw)"
 
 
