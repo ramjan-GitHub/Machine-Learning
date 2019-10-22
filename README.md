@@ -14,3 +14,4 @@
 
 **[7. Tokenization Normalization And Vectorization Of Text Data](https://github.com/ramjan-GitHub/Machine-Learning/blob/master/Projects/TokenizationNormalizationAndVectorizationOfTextData.ipynb)**
 
+**[8. Feature Extraction From Images](https://github.com/ramjan-GitHub/Machine-Learning/blob/master/Projects/FeatureExtractionFromImages.ipynb)**
